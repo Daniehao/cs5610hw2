@@ -1,0 +1,43 @@
+Please fill in answers to the questions below:
+Wikipedia citation:https://en.wikipedia.org/wiki/Zebra
+
+1. What's your name?
+YIJIA HAO
+
+2. What hostname did you deploy to?
+yijiahao94.com
+
+3. What's the link to your repository on github with your code?
+https://github.com/Daniehao/cs5610hw2
+
+4. How many HTML / CSS tutorial exercises did you do?
+Over 15.
+
+5. How comfortable do you feel with HTML and CSS now?
+I feel comfortable for HTML, but I still have few issues to make my text vertical centered on the calculator screen.
+
+6. How many JS tutorial exercises did you do?
+All.
+
+7. How comfortable do you feel with JS now?
+I feel OK, because I had some issues during homework.(ex: I tried to use AddEvents to realize onClick part but it has some issues when I pass parameters. However, I figured out later on).
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+YES.
+
+9. Which parts of this assignment did you have trouble with, if any?
+For the calculator part on this homework, I was struggling on the cases of calculation since there are some small "traps" when using dots. 
+
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
